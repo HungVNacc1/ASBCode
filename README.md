@@ -1,4 +1,4 @@
-# ASBCode - Online Compiler & Visual Variable Tracker
+# En: ASBCode - Online Compiler & Visual Variable Tracker
 
 ASBCode is an online platform designed to support programming education, source code testing, and visual algorithm analysis. Designed with a minimalist approach to optimize user experience, ASBCode helps programming learners easily verify the accuracy of their algorithms and deeply understand the execution mechanism of each line of code through its dynamic variable tracking feature.
 
@@ -45,7 +45,7 @@ ASBCode is an online platform designed to support programming education, source 
 
 ================================================================================
 
-# ASBCode - Trình Biên Dịch Trực Tuyến & Theo Dõi Biến Số Trực Quan
+# Vi: ASBCode - Trình Biên Dịch Trực Tuyến & Theo Dõi Biến Số Trực Quan
 
 ASBCode là một nền tảng web hỗ trợ học lập trình, chạy thử nghiệm mã nguồn và phân tích thuật toán trực quan. Hệ thống được thiết kế tối giản, tối ưu trải nghiệm người dùng, giúp người học lập trình dễ dàng kiểm tra tính chính xác của thuật toán và hiểu sâu sắc cơ chế vận hành của từng dòng lệnh thông qua tính năng theo dõi biến số.
 

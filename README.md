@@ -43,7 +43,7 @@ ASBCode is an online platform designed to support programming education, source 
 - The current build is stable for the Python programming language. Language structures for C++, Java, and JavaScript are operating in beta preview versions.
 - During the playback simulation process, the active running line is highlighted with an amber accent light to optimize visual tracking capabilities.
 
-================================================================================
+============================================================================
 
 # Vi: ASBCode - Trình Biên Dịch Trực Tuyến & Theo Dõi Biến Số Trực Quan
 
